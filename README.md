@@ -1,2 +1,2 @@
 # hexletstudies
-practice for hexlet
+practice for hexlet.io
